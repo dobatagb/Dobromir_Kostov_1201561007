@@ -1,0 +1,17 @@
+.form-control{
+				width: 250px;
+				float:left;
+}
+#footer {
+	margin-top: 100px;
+	color:red;
+	position:fixed;
+	bottom:10px;
+	left:20px;
+}
+body {
+	background-color:Red;
+}
+h1   {
+	background-color:Orange;
+}

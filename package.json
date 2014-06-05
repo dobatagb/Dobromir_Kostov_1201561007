@@ -1,0 +1,11 @@
+{
+	"name"         : "Task",
+	"version"      : "1.0.0",
+	"description"  : "PhoneBook",
+	"main"         : "server.js",
+	"author"       : "Dobromir Kostov",
+	"dependencies" : {
+		"express"    : "~3.4.4",
+		"mongoose"   : "~3.6.2"
+	}
+}
